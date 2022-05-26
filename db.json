@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": "e39b29a7-8e22-47ec-af42-0f1db3f564b0",
+      "text": "Visit the doctor",
+      "day": "Sunday at 8:00 AM",
+      "reminder": true
+    }
+  ]
+}
